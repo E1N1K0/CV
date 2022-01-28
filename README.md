@@ -35,3 +35,5 @@ href="https://www.youtube.com/watch?v=FW42LVlPyBE">My Youtube
 </a></li><br>
 </body>
 </html>
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasdaroch/)
