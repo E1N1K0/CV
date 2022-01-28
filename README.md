@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Nicolas Roberto Daroch Salazar</title>
-</head>
-<body>
-
 <h1>NICOLAS ROBERTO DAROCH SALAZAR</h1>
 
 <p>Multidisciplinary engineer, problem solving
@@ -36,4 +29,3 @@ href="https://www.youtube.com/watch?v=FW42LVlPyBE">My Youtube
 </body>
 </html>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasdaroch/)
