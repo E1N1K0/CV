@@ -17,7 +17,9 @@
     Universidad Técnica Federico Santa María</p>
 <p> <b>MECHANICAL ENGINEER</b><br>
     Degree in engineering sciences<br>
-    Universidad Austral de Chile</dd></p>
+    Universidad Austral de Chile<br>
+    <a href="https://drive.google.com/file/d/1VSa3ImgtxpXnzoky7NkBHVCSghCL-rTq/view?usp=share_link" target="_blank">
+    <button>Certificado</button></a></p></dd>
 
 <h2><b><u>LINKS:</u></b></h2>
 <li><a 
