@@ -9,12 +9,16 @@
 <h2><b><u>STUDIES:</u></b></h2>
 <p> <b><dd>MASTER in Strategic Management and Project Evaluation</b><br>
     Business Administration and Management<br>
-    Universidad San Sebastián</p>
+    Universidad San Sebastián<br>
+    <a href="https://drive.google.com/file/d/1nQU1Fg9IcwaTuvYYu8tbdjSYvlnWDzys/view?usp=share_link" target="_blank">
+    <button>Certification</button></a></p></dd>
 <p> <b>DIPLOMA Preparation, formulation and evaluation of projects</b><br>
     Universidad San Sebastián</p>
 <p> <b>INDUSTRIAL CIVIL ENGINEER</b><br>
     Degree in engineering sciences<br>
-    Universidad Técnica Federico Santa María</p>
+    Universidad Técnica Federico Santa María<br>
+    <a href="https://drive.google.com/file/d/18QKsFH3296WJZFRKcdONOKd68Iu7nDis/view?usp=share_link" target="_blank">
+    <button>Certification</button></a></p></dd>
 <p> <b>MECHANICAL ENGINEER</b><br>
     Degree in engineering sciences<br>
     Universidad Austral de Chile<br>
