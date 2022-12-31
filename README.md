@@ -12,8 +12,6 @@
     Universidad San Sebastián<br>
     <a href="https://drive.google.com/file/d/1nQU1Fg9IcwaTuvYYu8tbdjSYvlnWDzys/view?usp=share_link" target="_blank">
     <button>Certification</button></a></p></dd>
-<p> <b>DIPLOMA Preparation, formulation and evaluation of projects</b><br>
-    Universidad San Sebastián</p>
 <p> <b>INDUSTRIAL CIVIL ENGINEER</b><br>
     Degree in engineering sciences<br>
     Universidad Técnica Federico Santa María<br>
