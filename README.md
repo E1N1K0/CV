@@ -7,7 +7,7 @@
     collaborate with different work teams.</p>
 
 <h2><b><u>STUDIES:</u></b></h2>
-<p> <b><dd>Master's in Strategic Management and Project Evaluation</b><br>
+<p> <b><dd>MASTER in Strategic Management and Project Evaluation</b><br>
     Business Administration and Management<br>
     Universidad San Sebastián<br>
     <a href="https://drive.google.com/file/d/1nQU1Fg9IcwaTuvYYu8tbdjSYvlnWDzys/view?usp=share_link" target="_blank">
